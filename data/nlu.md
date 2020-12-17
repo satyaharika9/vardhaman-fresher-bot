@@ -18,6 +18,9 @@
 - of course
 - that sounds good
 - correct
+- thanks
+- ok thanks
+- thank you
 
 ## intent:deny
 - no
