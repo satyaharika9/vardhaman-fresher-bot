@@ -257,6 +257,8 @@
 - who are you
 - what is your name
 - who made you
+- what is mapping it services
+- what is mapping it servicesz
 
 ## intent:other_questions
 - where is water
