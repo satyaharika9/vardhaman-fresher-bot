@@ -52,7 +52,7 @@
 - extremely sad
 - so sad
 
-##intent:sug
+## intent:sug
 - suggestion
 - suggestions
 - what suggestions do you have?
@@ -77,13 +77,13 @@
 - cut off ranks
 - cut off for college
 
-##intent:fee_structure
+## intent:fee_structure
 - what is the fee structure
 - what is the fee structure of College
 - what is the fee structure of Vardhaman college of Engineering
 - fee structure
 
-##intent:depar_college
+## intent:depar_college
 - departments
 - what are the different departments
 - what are the different departments in college
@@ -91,7 +91,7 @@
 - what are the departments in College
 - what departments are present in the College
 
-##intent:plac_college
+## intent:plac_college
 - placements
 - what companies visit the college
 - what is the placements percentage in College
@@ -99,14 +99,14 @@
 - are the placements good in vardhaman college of enigineering
 - what are the companies visiting vardhaman college of Engineering
 
-##intent:trans_college
+## intent:trans_college
 - transport facility
 - transport
 - what is the transport available to reach the College
 - what is the transport available to reach vardhaman college of enigineering
 - is there any availablity of transport
 
-##intent:dir_vardhaman
+## intent:dir_vardhaman
 - how to come to vardhaman college
 - direction to vardhaman college of Engineering
 - vardhaman college
@@ -119,7 +119,7 @@
 - directions
 - directions to college
 
-##intent:cse_it_admin
+## intent:cse_it_admin
 - direction to cse block
 - direction to it block
 - direction to admin block
@@ -139,7 +139,7 @@
 - directions to block 1
 - how to go to block 1
 
-##intent:ece_eee
+## intent:ece_eee
 - direction to ece block
 - direction to eee block
 - direction to ece and eee block
@@ -156,15 +156,13 @@
 - directions to block 3
 - how to go to block 3
 
-##intent:me_ce
+## intent:me_ce
 - direction to mech block
 - direction to civil block
 - direction to mech and civil block
 - direction to mechanical block
-- direction to civil block
 - mechanical block
 - civil  block
-- mechanical block
 - civil block
 - how to go to mech block
 - how to go to civil block
@@ -175,19 +173,19 @@
 - directions to block 2
 - how to go to block 2
 
-##intent:main_audi
+## intent:main_audi
 - directions to main auditorium
 - directions to main audi
 - how to go to main auditorium
 - main auditorium
 
-##intent:mini_audi
+## intent:mini_audi
 - directions to mini auditorium
 - directions to mini audi
 - how to go to mini auditorium
 - mini auditorium
 
-##intent:canteen
+## intent:canteen
 - directions to canteen
 - how to go to canteen
 - canteen
@@ -195,14 +193,14 @@
 - directions to block 4
 - how to go to block 4
 
-##intent:fresher
+## intent:fresher
 - directions to freshers block
 - how to go to freshers block
 - freshers block
 - block 5
 - how to go to block 5
 
-##intent:pat
+## intent:pat
 - directions to placement training
 - how to go to placement training
 - placement training
@@ -210,42 +208,42 @@
 - how to go to pat
 - pat
 
-##intent:hostel
+## intent:hostel
 - directions to hostel
 - hostel
 - how to go to hostel
 - how to go to boys hostel
 - how to go to girls hostel
 
-##intent:library
+## intent:library
 - directions to library
 - library
 - how to go to library
 
-##intent:cstad
+## intent:cstad
 - directions to cricket stadium
 - cricket stadium
 - how to go to cricket stadium
 
-##intent:bte
+## intent:bte
 - btech
 - btech courses
 - what are the btech courses
 - what are the btech  courses available in vardhaman college of engineering
 
-##intent:pg
+## intent:pg
 - pg
 - pg courses
 - what are the pg courses
 - what are the pg  courses available in vardhaman college of engineering
 
-##intent:mba
+## intent:mba
 - directions to mba block
 - direct to mba block
 - how to go to mba block
 - mba block
 
-##intent:know_more
+## intent:know_more
 - know more
 - website
 
@@ -265,6 +263,7 @@
 - where is air
 - water
 - anything
+- wtf
 
 ## intent:vard_rules
 - are phones allowed in the college
